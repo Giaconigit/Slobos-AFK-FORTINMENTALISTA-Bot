@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "FORTINMENTALISTA",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "OpenServerBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "FortinMentalista.aternos.me ",
     "port": 27586,
     "version": "",
     "try-creative": false
